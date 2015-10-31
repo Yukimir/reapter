@@ -1,0 +1,13 @@
+c:\users\yukimir\documents\visual studio 2013\Projects\FDJ\FDJ\bin\Debug\FDJ.exe
+c:\users\yukimir\documents\visual studio 2013\Projects\FDJ\FDJ\bin\Debug\FDJ.pdb
+c:\users\yukimir\documents\visual studio 2013\Projects\FDJ\FDJ\obj\Debug\FDJ.Form1.resources
+c:\users\yukimir\documents\visual studio 2013\Projects\FDJ\FDJ\obj\Debug\FDJ.Properties.Resources.resources
+c:\users\yukimir\documents\visual studio 2013\Projects\FDJ\FDJ\obj\Debug\FDJ.csproj.GenerateResource.Cache
+c:\users\yukimir\documents\visual studio 2013\Projects\FDJ\FDJ\obj\Debug\FDJ.exe
+c:\users\yukimir\documents\visual studio 2013\Projects\FDJ\FDJ\obj\Debug\FDJ.pdb
+c:\users\yukimir\documents\visual studio 2013\Projects\FDJ\FDJ\obj\Debug\FDJ.csprojResolveAssemblyReference.cache
+c:\users\yukimir\documents\visual studio 2013\Projects\FDJ\FDJ\bin\Debug\FDJ.exe.config
+c:\users\yukimir\documents\visual studio 2013\Projects\FDJ\FDJ\bin\Debug\FDJ.exe.manifest
+c:\users\yukimir\documents\visual studio 2013\Projects\FDJ\FDJ\bin\Debug\FDJ.application
+c:\users\yukimir\documents\visual studio 2013\Projects\FDJ\FDJ\obj\Debug\FDJ.exe.manifest
+c:\users\yukimir\documents\visual studio 2013\Projects\FDJ\FDJ\obj\Debug\FDJ.application
